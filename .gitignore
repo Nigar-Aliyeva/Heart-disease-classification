@@ -1,1 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python Virtual Environment
+venv/
 env/
+.env
+
+# Jupyter configuration file
+.jupyter/
+
+# Jupyter log files
+*.log
+
+# Jupyter notebook checkpoints (uncomment the line below if you want to ignore all checkpoints)
+**/.ipynb_checkpoints/
+
+# Other generated files
+.DS_Store
