@@ -23,3 +23,6 @@ Our analysis included six distinct machine learning models ( mainly from scikit-
 
 ## 💠 Data
 [The original data](https://archive.ics.uci.edu/dataset/45/heart+disease) came from the Cleavland data from the UCI Machine Learning Repository.
+
+## 💠 Contributions
+I welcome and encourage contributions of any kind to the project from individuals like you! 😊
